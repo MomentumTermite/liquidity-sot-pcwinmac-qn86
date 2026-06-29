@@ -1,4 +1,4 @@
-# 
+# 开源 liquidity sniper bot 插件 Mac OS版 | 更新 liquidity sniper bot 插件 PC Windows版。集成 私钥管理 和 快速内存池访问，跨平台性能最大化。
 
 
 
